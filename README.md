@@ -156,4 +156,4 @@ This project is licensed under the MIT License.
 
 --------------
 
-📬 Contact For any issues or queries, open an issue or email at singhal.shubhi.2002@gmail.com.
+📬 Contact For any issues or queries, open an issue or email at mukulchaudhary1123@gmail.com.
